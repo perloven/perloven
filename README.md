@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @perloven
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Java/Kotlin backend development
+- 🌱 I’m currently learning Angular
 
 <!---
 perloven/perloven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
